@@ -8,7 +8,7 @@ public class GameFrame extends JFrame {
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setResizable(false);
         this.pack();
-        this.setVisible(false); /*alterei para false porem é true */
+        this.setVisible(false); /*alterei para asdasdfalse porem é true */
         this.setLocationRelativeTo(null);
     }
 
